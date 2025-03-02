@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "McXnYPQKqQoBvkKRYjpjsWUG7g5lRhnpduJb6iyfG0k=",
+  "Source": "EHRSafe",
+  "BasePath": "_content/EHRSafe",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

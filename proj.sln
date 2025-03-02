@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EHRSafe", "EHRSafe.csproj", "{B981B8E9-FA76-E582-3237-C0236CBB59E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B981B8E9-FA76-E582-3237-C0236CBB59E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B981B8E9-FA76-E582-3237-C0236CBB59E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B981B8E9-FA76-E582-3237-C0236CBB59E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B981B8E9-FA76-E582-3237-C0236CBB59E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62904FFC-D3E3-45FD-A0AF-A9A96E652FA5}
+	EndGlobalSection
+EndGlobal
